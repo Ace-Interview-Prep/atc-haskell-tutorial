@@ -1,5 +1,4 @@
-
-# Lesson 1 - Types & Domain Theory
+# Chapter 1: Types & Domain Theory
 
 ## Introduction to Types
 
