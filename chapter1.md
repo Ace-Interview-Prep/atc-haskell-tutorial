@@ -1,6 +1,13 @@
 # Chapter 1: Types & Domain Theory
 
-## Introduction to Types
+1. [Introduction to Types](#introduction)
+2. [Simple Types and Type Signatures](#typesignatures)
+3. [Domain-Driven Design](#ddd)
+4. [Pairing Domain Theory with Type Theory](#typetheory)
+5. [Advanced Type Concepts](#advancedtypes)
+6. [Recap & Exercises](#recap)
+
+## Introduction to Types <a name="introduction"></a>
 
 ### What Are Types?
 
@@ -144,7 +151,7 @@ increment = add 1
 
 Here, add is a curried function that takes two Integer arguments. By partially applying add with the value 1, we create a new function increment that only takes a single argument and adds 1 to it. The type system ensures that this transformation is valid and safe.
 
-## Simple Types and Type Signatures
+## Simple Types and Type Signatures <a name="typesignatures"></a>
 
 ### How to Read Type Signatures
 
@@ -328,7 +335,7 @@ area (Square s) = s * s
 
 In this example, the area function computes the area of a Shape. It uses pattern matching to determine whether the shape is a Circle, Rectangle, or Square, and calculates the area accordingly.
 
-## Domain-Driven Design
+## Domain-Driven Design <a name="ddd"></a>
 
 ### What is Domain-Driven Design?
 
@@ -463,7 +470,7 @@ In this example:
 - The aggregateData function aggregates data from NASA, ESA, and JAXA, and returns the most accurate dataset based on the validation criteria.
 
 
-## Pairing Domain Theory with Type Theory
+## Pairing Domain Theory with Type Theory <a name="typetheory"></a>
 
 ### Type Theory in the Context of Domain Modeling
 
@@ -662,7 +669,7 @@ In this example:
 - This ensures that invalid states (e.g., negative balances) are impossible to represent.
 
 
-## Advanced Type Concepts
+## Advanced Type Concepts <a name="advancedtypes"></a>
 
 In this section, we’ll introduce some of Haskell’s more advanced type concepts, such as type classes, type families, phantom types, and type-level programming. You don’t need to learn these concepts right away, but knowing how to recognize them and having a basic understanding of how they work will help you expand your knowledge over time.
 
@@ -839,7 +846,7 @@ In this example:
 - The addQuantities function ensures that we can only add quantities of the same unit.
 - If we try to add a distance to a time, Haskell’s type system will catch this error at compile time.
 
-## Recap & Exercises
+## Recap & Exercises <a name="recap"></a>
 
 ### Recap
 
