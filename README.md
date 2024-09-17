@@ -54,7 +54,7 @@ Below are the chapters that will guide you through this journey:
 
 ### How to Use This Guide
 
-Each chapter contains a detailed explanation of core Haskell concepts, code examples, and exercises to solidify your understanding. We recommend starting with **Chapter 1** and progressing through each chapter in sequence, as each concept builds upon the previous one. Take your time to explore each section and practice the exercises to get the most out of this guide.
+Each chapter contains a detailed explanation of core Haskell concepts, code examples, and exercises to solidify your understanding. We recommend starting with **Chapter 0** and progressing through each chapter in sequence, as each concept builds upon the previous one. Take your time to explore each section and practice the exercises to get the most out of this guide.
 
 Feel free to open issues or contribute if you find improvements or want to add your own knowledge to the guide. The Ace Talent Community is all about helping each other grow and master new skills, so don’t hesitate to engage with the community!
 
