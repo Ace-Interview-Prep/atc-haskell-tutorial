@@ -10,6 +10,9 @@ In this repository, you’ll find a structured learning path, walking you throug
 
 Below are the chapters that will guide you through this journey:
 
+0. [**Chapter 0 - Think Like a Functional Programmer**](./chapter0.md)  
+   Learn how to approach problem-solving by thinking like a functional programmer, breaking down problems using first principles, and understanding the core mindset behind functional programming.
+
 1. [**Chapter 1 - Types & Domain Theory**](./chapter1.md)  
    Learn how types in Haskell are more than just simple categories for data—they can help you model complex business domains in ways that are safe and easy to reason about.
 
@@ -28,22 +31,25 @@ Below are the chapters that will guide you through this journey:
 6. [**Chapter 6 - Combine Your Functions**](./chapter6.md)  
    Master function composition, one of the core principles of Haskell, to build complex logic by combining simple, pure functions.
 
-7. [**Chapter 7 - Building Something Real**](./chapter7.md)  
+7. [**Chapter 7 - (Witty Title for Recursion)**](./chapter7.md)  
+   Recursion is fundamental in Haskell. Learn how to solve problems by breaking them down into smaller, self-referential pieces, unlocking the power of recursion.
+
+8. [**Chapter 8 - Building Something Real**](./chapter8.md)  
    Get hands-on and start building a real-world Haskell application, applying the skills you’ve learned so far.
 
-8. [**Chapter 8 - Building Your First API**](./chapter8.md)  
-   Learn how to create a robust API in Haskell, using modern frameworks to build scalable web services.
+9. [**Chapter 9 - Generative Property Testing**](./chapter9.md)  
+   Learn about property-based testing and how to use tools like QuickCheck to automatically generate test cases that validate the core properties of your functions.
 
-9. [**Chapter 9 - Databases and FRMs**](./chapter9.md)  
-   Understand how to interact with databases in a functional programming context, using frameworks like Persistent to enforce type safety.
+10. [**Chapter 10 - Building Your First API**](./chapter10.md)  
+    Learn how to create a robust API in Haskell, using modern frameworks to build scalable web services.
 
-10. [**Chapter 10 - Cross-Platform Web/Mobile Development**](./chapter10.md)  
+11. [**Chapter 11 - Databases and FRMs**](./chapter11.md)  
+    Understand how to interact with databases in a functional programming context, using frameworks like Persistent to enforce type safety.
+
+12. [**Chapter 12 - Cross-Platform Web/Mobile Development**](./chapter12.md)  
     Discover how Haskell can be used for cross-platform development, leveraging frameworks like Reflex and Obelisk for web and mobile apps.
 
-11. [**Chapter 11 - Generative Property Testing**](./chapter11.md)  
-    Learn about property-based testing and how to use tools like QuickCheck to automatically generate test cases that validate the core properties of your functions.
-
-12. [**Chapter 12 - Deterministic Environments Using Nix**](./chapter12.md)  
+13. [**Chapter 13 - Deterministic Environments Using Nix**](./chapter13.md)  
     Find out how Nix can help you create deterministic and reproducible development environments, ensuring that your Haskell code runs the same way across all systems.
 
 ### How to Use This Guide
