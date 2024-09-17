@@ -1,6 +1,8 @@
 # Chapter 0: Think Like a Functional Programmer
 
-## Introduction
+1. [Introduction](#introduction)
+
+## Introduction <a name="introduction"></a>
 Before diving into Haskell, we need to shift our mindset to think like a functional programmer. This mindset is different from what you might be used to if you come from a procedural or object-oriented programming background. How you approach problem-solving as a programmer can dramatically affect your outcomes. In the world of functional programming (FP), the way we think about problems is fundamentally different. The essence of FP is to break down problems into their most basic elements, using mathematical principles to guide us toward clean, reliable solutions. Every problem, no matter how complex, can be simplified when we apply first principles analysis.
 
 ## How to Approach Problem Solving: Every Problem is the Same
