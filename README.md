@@ -11,7 +11,6 @@ In this repository, you’ll find a structured learning path, walking you throug
 Below are the chapters that will guide you through this journey:
 
 [**Introduction**](./introduction.md)
-
 Discover why Haskell is more than just an academic language. From Tesla and SpaceX to financial firms and tech giants, learn how Haskell is being used in high-stakes industries for its robustness, strong typing, and functional programming paradigm that ensures reliability and scalability in software systems.
 
 [**Chapter 0 - Think Like a Functional Programmer**](./chapter0.md)  
