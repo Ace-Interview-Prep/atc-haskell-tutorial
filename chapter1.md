@@ -941,3 +941,7 @@ data Distance a = MkDistance Double
 convertToKilometers :: Distance Meters -> Distance Kilometers
 -- Implement your function here
 ```
+
+<br>
+<br>
+[Up Next: Chapter 2 - Immutability Changes Everything](./chapter2.md)
