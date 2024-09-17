@@ -11,10 +11,11 @@ In this repository, you’ll find a structured learning path, walking you throug
 Below are the chapters that will guide you through this journey:
 
 [**Introduction**](./introduction.md)
+
 Discover why Haskell is more than just an academic language. From Tesla and SpaceX to financial firms and tech giants, learn how Haskell is being used in high-stakes industries for its robustness, strong typing, and functional programming paradigm that ensures reliability and scalability in software systems.
 
 [**Chapter 0 - Think Like a Functional Programmer**](./chapter0.md)  
-   Learn how to approach problem-solving by thinking like a functional programmer, breaking down problems using first principles, and understanding the core mindset behind functional programming.
+Learn how to approach problem-solving by thinking like a functional programmer, breaking down problems using first principles, and understanding the core mindset behind functional programming.
 
 [**Chapter 1 - Types & Domain Theory**](./chapter1.md)  
 Learn how types in Haskell are more than just simple categories for data—they can help you model complex business domains in ways that are safe and easy to reason about.
