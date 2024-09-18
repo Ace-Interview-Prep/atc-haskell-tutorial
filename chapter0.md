@@ -2,8 +2,14 @@
 
 1. [Introduction](#introduction)
 2. [How to Approach Problem Solving: Every Problem is the Same](#problemsolving)
-3. [Conclusion](#conclusion)
-4. [Exercises](#exercises)
+3. [Taking Baby Steps](#babysteps)
+4. [Small Components, Big Impact](#bigimpact)
+5. [Functional Programming Mindset](#fpmindeet)
+6. [Demystifying Type Theory and its Motivations for Functional Programming](#typetheory)
+7. [How to Build an Application: What is a Functional Application?](#howto)
+8. [Different Types of Applications Have Different Requirements for Safety](#safety)
+9. [Conclusion](#conclusion)
+10. [Exercises](#exercises)
 
 ## Introduction <a name="introduction"></a>
 Before diving into Haskell, we need to shift our mindset to think like a functional programmer. This mindset is different from what you might be used to if you come from a procedural or object-oriented programming background. How you approach problem-solving as a programmer can dramatically affect your outcomes. In the world of functional programming (FP), the way we think about problems is fundamentally different. The essence of FP is to break down problems into their most basic elements, using mathematical principles to guide us toward clean, reliable solutions. Every problem, no matter how complex, can be simplified when we apply first principles analysis.
@@ -168,7 +174,7 @@ Don’t worry if these concepts don’t fully click right away. We’ll be explo
 The reason we still use these names is to show respect to the mathematicians who developed these ideas. In the FP world, everyone uses these terms and you will learn to use them as well!
 
 
-## How to Build an Application: What is a Functional Application?
+## How to Build an Application: What is a Functional Application?<a name="howto"></a>
 What does it mean to build a functional application? In essence, an application is a sequence of instructions that runs along a timeline. But in functional programming, we treat this timeline very differently from traditional procedural or object-oriented approaches.
 
 ### Traditional vs. Functional Approaches
@@ -200,7 +206,7 @@ For those who have slogged through procedural or object-oriented codebases, part
 ### Functional Programming in the Real World
 FP isn’t just for academics and hobbyists. It’s a powerful tool for building real-world applications, especially in industries where precision, reliability, and scalability are paramount. Let’s dive into why FP is hands down better for risky codebases.
 
-## Different Types of Applications Have Different Requirements for Safety
+## Different Types of Applications Have Different Requirements for Safety<a name="safety"></a>
 Not all applications are created equal. Some need more safety guarantees than others. Functional programming provides these guarantees, making it an excellent choice for industries where the cost of failure is high—like healthcare, finance, aerospace, and more.
 
 ### Why FP is Ideal for High-Stakes Applications
