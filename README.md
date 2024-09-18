@@ -25,11 +25,11 @@ Understand why immutability is at the heart of functional programming, how it si
 [**Chapter 3 - It’s All Patterns**](./chapter3.md)  
 Dive deep into pattern matching, one of Haskell’s most powerful features, to destructure and manipulate data in clear and concise ways.
 
-[**Chapter 4 - Working with Lists and Sets**](./chapter4.md)  
-Explore how to work with Haskell’s core data structures—lists and sets—and discover how functional programming offers elegant ways to manipulate collections of data.
-
-[**Chapter 5 - String Parsing**](./chapter5.md)  
+[**Chapter 4 - String Parsing**](./chapter4.md)  
 Learn how to handle string data effectively in Haskell, from basic string manipulation to building powerful parsers using libraries like Parsec.
+
+[**Chapter 5 - Working with Lists and Sets**](./chapter5.md)  
+Explore how to work with Haskell’s core data structures—lists and sets—and discover how functional programming offers elegant ways to manipulate collections of data.
 
 [**Chapter 6 - Combine Your Functions**](./chapter6.md)  
 Master function composition, one of the core principles of Haskell, to build complex logic by combining simple, pure functions.
