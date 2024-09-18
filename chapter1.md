@@ -944,5 +944,5 @@ convertToKilometers :: Distance Meters -> Distance Kilometers
 
 <br>
 
-[Previous Chapter](./chapter0.md)
+[Previous Chapter](./chapter0.md) | 
 [Next Chapter](./chapter2.md)
