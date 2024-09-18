@@ -242,7 +242,4 @@ Remember, this is just the beginning. As we continue, you’ll learn more about 
 <br>
 
 [Previous Chapter](./introduction.md)
-
-<br>
-
 [Next Chapter](./chapter1.md)
