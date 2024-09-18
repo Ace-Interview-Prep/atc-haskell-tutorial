@@ -6,13 +6,13 @@
 4. [A Side-by-Side Comparison: C# (OOP) vs. Haskell (FP)](#comparison)
 5. [The Bottom Line: Why You Should Learn Haskell](#bottomline)
 
-## Why Learn Haskell? The Rise of Functional Programming
+## Why Learn Haskell? The Rise of Functional Programming<a name="whylearn"></a>
 
 In recent years, there’s been a noticeable shift in the programming world. Modern Object-Oriented (OO) languages are increasingly borrowing concepts like first-class & higher-order functions, immutability, pure functions, and more from Functional Programming (FP). Why? Because FP has proven to be a better way to build reliable, maintainable, and scalable software. But here’s the catch: while OO languages like C# are trying to adapt FP concepts, they often fall short because their compilers and runtime environments weren’t designed with these paradigms in mind.
 
 This isn’t just a theoretical shift—it’s happening at the highest levels of industry. Microsoft, for example, has hired Simon Peyton Jones, one of the creators of Haskell, to help guide their functional programming efforts. Tim Sweeney, the founder of Epic Games, is working with Simon on a new language called Verse, which brings FP concepts into game development. Meanwhile, companies like Tesla, SpaceX, and Neuralink are using Haskell to solve some of the most complex and high-stakes problems in the world.
 
-## Why not go with the status quo, Object-Oriented Programming?
+## Why not go with the status quo, Object-Oriented Programming?<a name="whynot"></a>
 
 While these languages are very popular, in practice they are a nightmare for large projects. Why? Imagine you have a huge bin of LEGOs. You decide to recruit 4 friends to helpyou with an ambitious project: building a robot! There are infinitely many ways to put together pieces of lego, as well as infinite ways this project can go right or wrong. While there are many outcomes we can definitely know the characteristics of a successful project vs an unsuccessful one.
 
@@ -46,7 +46,7 @@ The difference in the outcomes these projects have in practice simply comes down
 
 After using Haskell, you will have a mental framework to discover the best solution to any given problem. You will also know the difference between strong and weak coding patterns and know whether or not you can trust a function. This mental framework is one that can be applied not only to amazing languages like Haskell and other functional strongly-typed languages but even to languages which don't stop you from writing bad code. 
 
-## Why Does Functional Programming Matter?
+## Why Does Functional Programming Matter?<a name="whymatter"></a>
 
 Before we dive into Haskell, let’s talk about why FP is gaining so much traction. The core principles of FP—immutability, pure functions, laziness, and generative testing—offer solutions to many of the challenges that OO programming struggles with.
 
@@ -58,7 +58,7 @@ Before we dive into Haskell, let’s talk about why FP is gaining so much tracti
 
 - **Generative Testing**: FP languages often emphasize generative testing, where the program itself generates test cases. This is in contrast to traditional unit testing in OO languages like C#, where developers manually write test cases. Haskell’s QuickCheck library, for example, allows you to describe properties that your functions should satisfy, and then automatically generates test cases to verify those properties. This approach can uncover edge cases that you might never think to test manually.
 
-## A Side-by-Side Comparison: C# (OOP) vs. Haskell (FP)
+## A Side-by-Side Comparison: C# (OOP) vs. Haskell (FP)<a name="comparison"></a>
 
 Let’s look at some specific examples to see how these differences play out in practice.
 
@@ -144,7 +144,7 @@ take 5 numbers  -- [1, 2, 3, 4, 5]
 
 This laziness allows you to work with potentially infinite data structures in a way that’s both memory-efficient and conceptually elegant.
 
-## The Bottom Line: Why You Should Learn Haskell
+## The Bottom Line: Why You Should Learn Haskell<a name="bottomline"></a>
 
 The industry is moving towards functional programming for good reason. As software systems become more complex, and as AI developers become more prevalent, the advantages of FP (immutability, pure functions, laziness, and generative testing) are becoming increasingly clear. While OO languages like C# are trying to incorporate these concepts, they often do so in a way that feels bolted-on rather than native. Haskell, on the other hand, was designed from the ground up with these principles in mind.
 
