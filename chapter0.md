@@ -241,5 +241,5 @@ Remember, this is just the beginning. As we continue, you’ll learn more about 
 
 <br>
 
-[Previous Chapter](./introduction.md)
+[Previous Chapter](./introduction.md) | 
 [Next Chapter](./chapter1.md)
