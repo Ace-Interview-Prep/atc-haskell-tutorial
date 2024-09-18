@@ -1,5 +1,10 @@
-
 # Introduction
+
+1. [Why Learn Haskell? The Rise of Functional Programming](#whylearn)
+2. [Why not go with the status quo, Object-Oriented Programming?](#whynot)
+3. [Why Does Functional Programming Matter?](#whymatter)
+4. [A Side-by-Side Comparison: C# (OOP) vs. Haskell (FP)](#comparison)
+5. [The Bottom Line: Why You Should Learn Haskell](#bottomline)
 
 ## Why Learn Haskell? The Rise of Functional Programming
 
@@ -146,3 +151,8 @@ The industry is moving towards functional programming for good reason. As softwa
 By learning Haskell, you’re not just learning a new language. You’re adopting a new way of thinking about programming. This shift in mindset will make you a better developer, no matter what language you ultimately use. Whether you’re working on high-stakes projects at a company like Tesla, developing the next big game at Epic, or simply trying to write better, more reliable code, the skills you gain from learning Haskell will serve you well.
 
 So let’s dive in and start learning Haskell. You’re about to unlock a powerful new approach to programming that will change the way you think about code forever.
+
+
+<br>
+ 
+[Next Chapter](./chapter0.md)
