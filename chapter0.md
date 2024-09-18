@@ -239,8 +239,10 @@ You’ve made it through the first lesson, and hopefully, you’re starting to s
 
 Remember, this is just the beginning. As we continue, you’ll learn more about how to apply these principles to build robust, scalable, and maintainable applications.
 
+<br>
+
+[Previous Chapter](./introduction.md)
 
 <br>
-[Previous Chapter](./introduction.md)
-<br>
+
 [Next Chapter](./chapter1.md)
