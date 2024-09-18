@@ -1,11 +1,14 @@
 # Chapter 0: Think Like a Functional Programmer
 
 1. [Introduction](#introduction)
+2. [How to Approach Problem Solving: Every Problem is the Same](#problemsolving)
+3. [Conclusion](#conclusion)
+4. [Exercises](#exercises)
 
 ## Introduction <a name="introduction"></a>
 Before diving into Haskell, we need to shift our mindset to think like a functional programmer. This mindset is different from what you might be used to if you come from a procedural or object-oriented programming background. How you approach problem-solving as a programmer can dramatically affect your outcomes. In the world of functional programming (FP), the way we think about problems is fundamentally different. The essence of FP is to break down problems into their most basic elements, using mathematical principles to guide us toward clean, reliable solutions. Every problem, no matter how complex, can be simplified when we apply first principles analysis.
 
-## How to Approach Problem Solving: Every Problem is the Same
+## How to Approach Problem Solving: Every Problem is the Same <a name="problemsolving"></a>
 The best way to tackle problem-solving is by using **first principles analysis**. This means breaking down a problem into its most basic, fundamental truths, and building up from there. By modeling the ground-roots information about the space the problem exists within, we can greatly increase our understanding and, as a result, simplify our implementation. This ensures that what we build not only works but is also maintainable and scalable.
 
 ### Example: First Principles in Action
@@ -224,10 +227,10 @@ Let’s take a look at some real-world examples where FP is making a difference:
 
 3. **Healthcare**: In the medical field, software bugs can literally be a matter of life and death. Functional programming’s strong safety guarantees make it a natural fit.
 
-## Conclusion
+## Conclusion <a name="conclusion"></a>
 You’ve made it through the first lesson, and hopefully, you’re starting to see the power of thinking like a functional programmer. By focusing on first principles, breaking down problems into small components, and embracing the mathematical nature of FP, you’re setting yourself up for success.
 
-## Exercises
+## Exercises <a name="exercises"></a>
 1. **First Principles Analysis**: Pick a problem you’ve encountered recently and break it down using first principles. Write a Haskell function that models your solution.
 
 2. **Domain Modeling**: Choose a domain (like an e-commerce platform or library system) and create stub functions with type signatures that handle the main operations.
