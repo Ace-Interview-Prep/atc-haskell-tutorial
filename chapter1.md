@@ -943,5 +943,6 @@ convertToKilometers :: Distance Meters -> Distance Kilometers
 ```
 
 <br>
-<br>
-[Up Next: Chapter 2 - Immutability Changes Everything](./chapter2.md)
+
+[Previous Chapter](./chapter0.md)
+[Next Chapter](./chapter2.md)
