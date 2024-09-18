@@ -43,7 +43,7 @@ processPayment cart paymentMethod =
        PayPal account -> -- Process PayPal payment here
 ```
 
-### Taking Baby Steps
+## Taking Baby Steps<a name="babysteps"></a>
 
 Once we've modeled the problem space by identifying the inputs and outputs, the next step is to actually solve the problem. This is where the concept of **taking baby steps** comes into play. The idea is to break down the problem into the smallest, most consumable pieces you can think of and then write the code that performs those transformations. It’s about constantly asking yourself: 
 
@@ -53,7 +53,7 @@ Once we've modeled the problem space by identifying the inputs and outputs, the 
 
 By approaching a problem in this way, you ensure that you never get overwhelmed by complexity. Each step is simple, understandable, and can be implemented without too much cognitive overhead.
 
-#### Applying Baby Steps to the Payment Example
+### Applying Baby Steps to the Payment Example
 
 Let’s go back to our payment processing example. We’ve already identified the inputs (the cart of items and the payment method) and the outputs (a successful payment and an order). Now we need to figure out how to go from input to output, one small step at a time.
 
@@ -131,7 +131,7 @@ In the end, the entire payment processing problem is solved by implementing a se
 
 This is the essence of functional programming: breaking problems down into manageable, bite-sized pieces, writing pure functions to handle those pieces, and then composing them together to solve the larger problem. With this approach, you can tackle even the most complex programming challenges with confidence.
 
-### Small Components, Big Impact
+## Small Components, Big Impact<a name="bigimpact"></a>
 When creating functions, it’s best to think about them in small, reusable components. The less they do, the more useful they are across different parts of your application. Haskell excels at allowing us to compose functions together in meaningful ways, and as you progress through this guide, you'll learn a bunch of neat ways to do this.
 
 ```haskell
@@ -145,13 +145,13 @@ totalWithDiscount discount = applyDiscount discount . calculateTotal
 
 Remember, Haskell is actually very simple at its core. Complexity arises from the many ways you can compose and modify functions, but if you understand the basics, you'll be able to build anything.
 
-### Functional Programming Mindset
+## Functional Programming Mindset<a name="fpmindset"></a>
 
 You might be thinking, "This all sounds great, but how does it help me build a real application?" Good question. The FP mindset is all about leveraging these small, composable functions to build up complex behavior in a controlled, predictable way. It’s like building a house out of LEGO bricks—each brick is simple, but the combinations are limitless.
 
 Take the time to understand the function signatures of unfamiliar functions. They’re your roadmap, guiding you through the complex landscape of Haskell. Approach each function one property at a time, and before you know it, you'll be solving problems with elegance and ease.
 
-### Demystifying Type Theory and its Motivations for Functional Programming
+## Demystifying Type Theory and its Motivations for Functional Programming<a name="typetheory"></a>
 
 Before we dive deeper, let’s touch on something that often confuses newcomers: terms like Monoids, Functors, Monads, and Semigroups. These might sound intimidating, but they’re just mathematical concepts that we use to structure our programs in a more reliable and predictable way.
 
