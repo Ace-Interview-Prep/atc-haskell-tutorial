@@ -3,7 +3,7 @@
 
 ## Why Learn Haskell? The Rise of Functional Programming
 
-In recent years, there’s been a noticeable shift in the programming world. Modern Object-Oriented (OO) languages are increasingly borrowing concepts from Functional Programming (FP). Why? Because FP has proven to be a better way to build reliable, maintainable, and scalable software. But here’s the catch: while OO languages like C# are trying to adapt FP concepts, they often fall short because their compilers and runtime environments weren’t designed with these paradigms in mind.
+In recent years, there’s been a noticeable shift in the programming world. Modern Object-Oriented (OO) languages are increasingly borrowing concepts like first-class & higher-order functions, immutability, pure functions, and more from Functional Programming (FP). Why? Because FP has proven to be a better way to build reliable, maintainable, and scalable software. But here’s the catch: while OO languages like C# are trying to adapt FP concepts, they often fall short because their compilers and runtime environments weren’t designed with these paradigms in mind.
 
 This isn’t just a theoretical shift—it’s happening at the highest levels of industry. Microsoft, for example, has hired Simon Peyton Jones, one of the creators of Haskell, to help guide their functional programming efforts. Tim Sweeney, the founder of Epic Games, is working with Simon on a new language called Verse, which brings FP concepts into game development. Meanwhile, companies like Tesla, SpaceX, and Neuralink are using Haskell to solve some of the most complex and high-stakes problems in the world.
 
