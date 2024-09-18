@@ -154,5 +154,6 @@ So let’s dive in and start learning Haskell. You’re about to unlock a powerf
 
 
 <br>
- 
+
+[Index](./README.md) | 
 [Next Chapter](./chapter0.md)
