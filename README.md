@@ -34,7 +34,7 @@ Learn how to handle string data effectively in Haskell, from basic string manipu
 [**Chapter 6 - Combine Your Functions**](./chapter6.md)  
 Master function composition, one of the core principles of Haskell, to build complex logic by combining simple, pure functions.
 
-[**Chapter 7 - Recursion: See Recursion**](./chapter7.md)  
+[**Chapter 7 - Recursion: GOTO Recursion**](./chapter7.md)  
 Recursion is fundamental in Haskell. Learn how to solve problems by breaking them down into smaller, self-referential pieces, unlocking the power of recursion.
 
 [**Chapter 8 - Building Something Real**](./chapter8.md)  
