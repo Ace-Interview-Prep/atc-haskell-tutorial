@@ -23,12 +23,6 @@ result = increment 5  -- Result is 6
 
 Currying promotes immutability because the partially applied function is itself an immutable value. Once a function is curried, you can reuse it with different inputs without changing its behavior.
 
-### The Illusion of Mutability in the Real World
-
-If you think about it, mutability doesn’t actually exist in the real world. The idea of mutating a variable, like x += 5, holds no real-world meaning. In the physical world, if you want to express that something changed, you would describe it as a new state rather than altering the previous one. For example, if you say, “I drank half of the water in the bottle,” you don’t modify the water. Instead, you observe a new state of the bottle—half-empty.
-
-What we often refer to as state in programming is just a snapshot of some aspect of the system at a particular time. When you mutate a variable in a program, you’re not changing the “thing” itself but rather replacing it with something new, overwriting the old version in memory.
-
 ### Metaphor of State Immutability: The Bucket Example
 
 Think of a bucket that represents the state of your program. In a world of mutable state, you can throw things into the bucket, mix them up, and hand the bucket to someone else. But the problem is, the person you hand the bucket to doesn’t know what rules you’ve been following for mixing things. They have no idea what the original contents were or how you manipulated them.
