@@ -1,4 +1,4 @@
-# Chapter 1: Types & Domain Theory
+# Chapter 1: Types, Functions & Domain Theory
 
 1. [Introduction to Types](#introduction)
 2. [Simple Types and Type Signatures](#typesignatures)
