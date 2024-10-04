@@ -236,13 +236,6 @@ Let’s take a look at some real-world examples where FP is making a difference:
 ## Conclusion <a name="conclusion"></a>
 You’ve made it through the first lesson, and hopefully, you’re starting to see the power of thinking like a functional programmer. By focusing on first principles, breaking down problems into small components, and embracing the mathematical nature of FP, you’re setting yourself up for success.
 
-## Exercises <a name="exercises"></a>
-1. **First Principles Analysis**: Pick a problem you’ve encountered recently and break it down using first principles. Write a Haskell function that models your solution.
-
-2. **Domain Modeling**: Choose a domain (like an e-commerce platform or library system) and create stub functions with type signatures that handle the main operations.
-
-3. **Pure vs. Impure Functions**: Take a simple Haskell program and identify which functions are pure and which are impure. Rewrite the impure ones to be pure where possible.
-
 Remember, this is just the beginning. As we continue, you’ll learn more about how to apply these principles to build robust, scalable, and maintainable applications.
 
 <br>
