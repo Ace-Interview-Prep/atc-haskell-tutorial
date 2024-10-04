@@ -16,7 +16,7 @@ Discover why Haskell is more than just an academic language. From Tesla and Spac
 [**Chapter 0 - Think Like a Functional Programmer**](./chapter0.md)  
 Learn how to approach problem-solving by thinking like a functional programmer, breaking down problems using first principles, and understanding the core mindset behind functional programming.
 
-[**Chapter 1 - Types & Domain Theory**](./chapter1.md)  
+[**Chapter 1 - Types, Functions & Domain Theory**](./chapter1.md)  
 Learn how types in Haskell are more than just simple categories for data—they can help you model complex business domains in ways that are safe and easy to reason about.
 
 [**Chapter 2 - Immutability Changes Everything**](./chapter2.md)  
